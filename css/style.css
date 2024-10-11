@@ -61,3 +61,16 @@ li a:active {
 li a:last-child {
     border-radius: 0 0 2rem 2rem;
 }
+
+.bottomLinkP {
+    color: black;
+}
+
+.bottom-link {
+    color: red;
+    font-weight: bolder;
+    background-color: gold;
+    border-radius: 2rem;
+    padding: .5rem;
+    text-decoration: underline;
+}
